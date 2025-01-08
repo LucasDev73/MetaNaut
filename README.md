@@ -8,6 +8,31 @@ MetaNaut es una herramienta diseñada para extraer metadatos de archivos en una 
 - **Facilita la Ciberseguridad**: Los metadatos pueden revelar información crítica sobre los archivos, ayudando a identificar vulnerabilidades.
 - **Organización Eficiente**: Cada archivo de texto generado mantiene la asociación con su archivo original, facilitando su revisión y análisis.
 
+## Instalación
+
+### Requisitos Previos
+
+Asegúrate de tener Python instalado en tu sistema. Puedes descargarlo desde [python.org](https://www.python.org/downloads/).
+
+### Clonar el Repositorio
+
+Para clonar el repositorio en tu máquina local, usa el siguiente comando:
+
+git clone https://github.com/LucasDev73/MetaNaut.git
+cd MetaNaut
+
+text
+
+### Instalar Dependencias
+
+Asegúrate de estar en la carpeta del proyecto y ejecuta:
+
+pip install -r requirements.txt
+
+text
+
+Esto instalará todas las dependencias necesarias para ejecutar MetaNaut.
+
 ## ¿Cómo funciona?
 
 1. **Selecciona una carpeta**: Elige la carpeta que contiene los archivos de los que deseas extraer metadatos.
