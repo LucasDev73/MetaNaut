@@ -32,6 +32,20 @@ Esto instalará todas las dependencias necesarias para ejecutar MetaNaut.
 
 ## ¿Cómo funciona?
 
+Para ejecutar el script y extraer metadatos de los archivos en una carpeta específica, utiliza el siguiente comando:
+
+`python MetaNaut.py "ruta/a/la/carpeta"`
+
+
+### Ejemplo
+
+Si tienes una carpeta llamada "documentos" en tu directorio actual, puedes ejecutar:
+
+`python MetaNaut.py documentos `
+
+
+Esto procesará todos los archivos dentro de la carpeta "documentos" y generará archivos de texto con los metadatos extraídos en una nueva carpeta llamada `Extracted-documentos`.
+
 1. **Selecciona una carpeta**: Elige la carpeta que contiene los archivos de los que deseas extraer metadatos.
 2. **Ejecuta MetaNaut**: La herramienta procesará todos los archivos y generará los resultados automáticamente.
 3. **Revisa los resultados**: Encuentra todos los metadatos organizados en archivos de texto individuales.
