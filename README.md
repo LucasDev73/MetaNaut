@@ -18,14 +18,15 @@ Asegúrate de tener Python instalado en tu sistema. Puedes descargarlo desde [py
 
 Para clonar el repositorio en tu máquina local, usa el siguiente comando:
 
-git clone https://github.com/LucasDev73/MetaNaut.git
-cd MetaNaut
+`git clone https://github.com/LucasDev73/MetaNaut.git`
+
+`cd MetaNaut`
 
 ### Instalar Dependencias
 
 Asegúrate de estar en la carpeta del proyecto y ejecuta:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Esto instalará todas las dependencias necesarias para ejecutar MetaNaut.
 
