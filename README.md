@@ -21,15 +21,11 @@ Para clonar el repositorio en tu máquina local, usa el siguiente comando:
 git clone https://github.com/LucasDev73/MetaNaut.git
 cd MetaNaut
 
-text
-
 ### Instalar Dependencias
 
 Asegúrate de estar en la carpeta del proyecto y ejecuta:
 
 pip install -r requirements.txt
-
-text
 
 Esto instalará todas las dependencias necesarias para ejecutar MetaNaut.
 
